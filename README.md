@@ -3,7 +3,11 @@
 
 ### 1. 笔记
 
-​	在学习Python的 遇到的一些人为需要记下来的东西，目前就[一篇](https://github.com/buyDream/Python3/blob/master/%E7%AC%94%E8%AE%B0/%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83.md)。
+​	在学习Python的 遇到的一些人为需要记下来的东西。
+
+#### 1.2[Python虚拟环境创建](https://github.com/buyDream/Python3/blob/master/%E7%AC%94%E8%AE%B0/%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83.md)。
+
+​	创建一个独立的Python环境。
 
 ## 2.AI
 
